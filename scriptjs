@@ -1,7 +1,0 @@
-function login()
-{
-  let u = username.value
-  let p = pw.value
-  if (u=="baohan"&& p="123")
-   {
-     window.open()
