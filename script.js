@@ -9,3 +9,5 @@ function login()
      
     }
  }
+else
+  document.write("Sai tên đăng nhập hoặc mật khẩu")
