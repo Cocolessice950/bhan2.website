@@ -1,1 +1,18 @@
-
+<html>
+  < head >
+    < meta charset = " utf - 8 " >
+    < meta name = " viewport " content = " width = device - width " >
+    < title > BÀI TẬP TIN HỌC 120 < / title >
+    < link href = " style.css " rel = " stylesheet " type = " text / css " / >
+ {
+  height: 100%;
+  width: 100%;
+ }
+ h2{color:font-family:;}
+ h3{color: yellow;}
+ .header 
+ { color : red; background-color :#F1F1F1; 
+  text-align: center; font-weight: bold; padding: 15px;
+ }
+ .menu{background-color:#333;pandding 5px; color:blue}
+ .noidung{}
